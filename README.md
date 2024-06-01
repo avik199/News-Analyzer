@@ -54,6 +54,15 @@ In today's information-rich environment, navigating the vast array of news artic
 - **Customizable Settings**: Provide options for users to customize their preferences.
 - **Credibility Scoring**: Offer credibility scores for news sources to help users make informed decisions.
 
+## Video Demonstration
+
+Watch the video demonstration to see how the News Analyzer works:
+
+<video width="600" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Conclusion
 
 The "News Analyzer" application aims to empower users by providing tools for better news comprehension and authenticity verification. By leveraging advanced technologies, this application facilitates informed decision-making and enhances digital literacy in the complex news landscape.
