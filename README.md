@@ -1,4 +1,9 @@
 # News Analyzer: Multi-featured News Application
+## Video Demonstration
+
+
+
+https://github.com/avik199/News-Analyzer/assets/125206095/52e51b08-8133-4e28-87e0-5eaa7100425a
 
 ## Overview
 
@@ -54,11 +59,7 @@ In today's information-rich environment, navigating the vast array of news artic
 - **Customizable Settings**: Provide options for users to customize their preferences.
 - **Credibility Scoring**: Offer credibility scores for news sources to help users make informed decisions.
 
-## Video Demonstration
 
-
-
-https://github.com/avik199/News-Analyzer/assets/125206095/52e51b08-8133-4e28-87e0-5eaa7100425a
 
 ## Conclusion
 
