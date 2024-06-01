@@ -59,7 +59,7 @@ In today's information-rich environment, navigating the vast array of news artic
 Watch the video demonstration to see how the News Analyzer works:
 
 <video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
+  <source src="demo.mp4" type="News Analyzer_Demo/mp4">
   Your browser does not support the video tag.
 </video>
 
