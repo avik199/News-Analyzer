@@ -57,7 +57,7 @@ In today's information-rich environment, navigating the vast array of news artic
 ## Video Demonstration
 
 
-![Video](News_Analyzer_demo.mp4)
+![Video](News Analyzer_demo.mp4)
 
 
 ## Conclusion
